@@ -84,8 +84,34 @@ This is an open-research platform. Contributions to the gait-stabilization algor
 
 
 
-### 🎥 Video Demonstrations
+## 📷 Complete Project Media Library
 
-Click the links below to watch the EVA-H dynamic locomotion tests:
-* [Gait Integration Test 1](WhatsApp%20Video%202026-05-24%20at%2010.22.33%20PM.mp4)
-* [Balance Correction Test 2](WhatsApp%20Video%202026-05-24%20at%2010.22.37%20PM.mp4)
+### 🛠️ Hardware & Assembly Gallery
+<p align="center">
+  <img src="WhatsApp Image 2026-05-22 at 6.25.29 PM.jpeg" width="24%" alt="EVA-H Initial Setup" />
+  <img src="WhatsApp Image 2026-05-24 at 9.54.15 PM.jpeg" width="24%" alt="EVA-H Structural Build" />
+  <img src="WhatsApp Image 2026-05-24 at 9.54.37 PM.jpeg" width="24%" alt="EVA-H Lower Kinematics" />
+  <img src="WhatsApp Image 2026-05-24 at 9.54.59 PM.jpeg" width="24%" alt="EVA-H Leg Alignment" />
+</p>
+
+<p align="center">
+  <img src="WhatsApp Image 2026-05-24 at 10.24.14 PM.jpeg" width="24%" alt="EVA-H Front View" />
+  <img src="WhatsApp Image 2026-05-24 at 10.24.15 PM.jpeg" width="24%" alt="EVA-H Side Profile" />
+  <img src="WhatsApp Image 2026-05-24 at 10.24.16 PM.jpeg" width="24%" alt="EVA-H Actuator Configuration" />
+  <img src="WhatsApp Image 2026-05-24 at 10.24.17 PM.jpeg" width="24%" alt="EVA-H Joint Linkage" />
+</p>
+
+<p align="center">
+  <img src="WhatsApp Image 2026-05-24 at 10.24.18 PM.jpeg" width="31%" alt="EVA-H Close-up" />
+  <img src="WhatsApp Image 2026-05-24 at 10.24.29 PM.jpeg" width="31%" alt="EVA-H Electronic Wiring" />
+</p>
+
+---
+
+### 🎥 Empirical Testing & Locomotion Videos
+
+Click the links below to view the live capture videos of the bipedal locomotion tests:
+
+* 🟢 **[Dynamic Walking Gait Integration Test](WhatsApp%20Video%202026-05-24%20at%2010.22.33%20PM.mp4)** — *Initial S-curve sweep validation on open platform.*
+* 🟢 **[Active Closed-Loop Balance Test](WhatsApp%20Video%202026-05-24%20at%2010.22.37%20PM.mp4)** — *Real-time MPU6050 complementary filter feedback verification.*
+* 🟢 **[System Stress & Power Stability Run](WhatsApp%20Video%202026-05-24%20at%209.57.39%20PM.mp4)** — *High-current multi-servo synchronous execution check.*
