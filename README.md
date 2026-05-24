@@ -70,3 +70,26 @@ This is an open-research platform. Contributions to the gait-stabilization algor
 *Developed by YASH-SHARMA32. Researching the future of open-source bipedal robotics.*
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📷 Hardware & Build Gallery
+
+Here are the physical build and testing images for the EVA-H platform:
+
+<p align="center">
+  <img src="WhatsApp Image 2026-05-24 at 10.24.14 PM.jpeg" width="30%" alt="EVA-H Front View" />
+  <img src="WhatsApp Image 2026-05-24 at 10.24.15 PM.jpeg" width="30%" alt="EVA-H Side Profile" />
+  <img src="WhatsApp Image 2026-05-24 at 10.24.16 PM.jpeg" width="30%" alt="EVA-H Actuators" />
+</p>
