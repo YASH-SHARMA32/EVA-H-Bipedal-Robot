@@ -84,12 +84,8 @@ This is an open-research platform. Contributions to the gait-stabilization algor
 
 
 
-## 📷 Hardware & Build Gallery
+### 🎥 Video Demonstrations
 
-Here are the physical build and testing images for the EVA-H platform:
-
-<p align="center">
-  <img src="WhatsApp Image 2026-05-24 at 10.24.14 PM.jpeg" width="30%" alt="EVA-H Front View" />
-  <img src="WhatsApp Image 2026-05-24 at 10.24.15 PM.jpeg" width="30%" alt="EVA-H Side Profile" />
-  <img src="WhatsApp Image 2026-05-24 at 10.24.16 PM.jpeg" width="30%" alt="EVA-H Actuators" />
-</p>
+Click the links below to watch the EVA-H dynamic locomotion tests:
+* [Gait Integration Test 1](WhatsApp%20Video%202026-05-24%20at%2010.22.33%20PM.mp4)
+* [Balance Correction Test 2](WhatsApp%20Video%202026-05-24%20at%2010.22.37%20PM.mp4)
